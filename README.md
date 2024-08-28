@@ -1,6 +1,6 @@
 <div align="center">
   <img width="200px" src="assets/empresas_logo.png" alt="Logo da Ada e do Santander" />
-  <h2 align="center">Back End Coders - Ada Tech + Santander</h2>
+  <h3 align="center">Back End Coders - Ada Tech e Santander</h3>
 </div>
 
 # 🎯Objetivo
@@ -15,17 +15,19 @@
 
   * **Design Pattern:** Aplicação de padrões de design relevantes, incluindo o uso de ENUM, `Model`, `Repository`, autenticação com JWT, e o framework SpringBoot. Inclui também o uso de `Notations`, `Service` e `Controller`.
 
+<!--
 # 🔧Instalação e Configuração
 Siga as etapas abaixo para configurar e executar os arquivos do curso em seu ambiente local. Para acessar os conteúdos, é recomendada a utilização de uma IDE. Neste projeto, utilizei o IntelliJ, mas você também pode optar pelo Eclipse, NetBeans ou até mesmo o VSCode.
 
   1. **Clone o Repositório:** 
   Utilize o Git Bash ou outro terminal de sua preferência para clonar este repositório:
      ```
-     git clone https://github.com/Paulo-Alvares/Rocking.git
+     git clone https://github.com/MyLearnHub/Back-End-Coders-Ada-Tech-e-Santander.git
      ```
 
   2. **Abra o Projeto na IDE:** 
   Após clonar o repositório, abra o projeto na IDE de sua preferência para começar a explorar e executar os arquivos do curso.
+-->
 
 <!--
 # 🤝Contribuições
@@ -34,7 +36,7 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
   1. **Fork o Repositório:**
     Crie um fork deste repositório para sua conta no GitHub. E clone o repositório forked para sua máquina local usando o comando:
         ```
-        git clone https://github.com/seu-usuario/rocking.git
+        git clone https://github.com/MyLearnHub/Back-End-Coders-Ada-Tech-e-Santander.git
         ```
 
   2. **Abra um Pull Request:** No GitHub, abra um Pull Request (PR) para o repositório original, descrevendo detalhadamente as alterações feitas e o propósito do PR.
@@ -46,12 +48,13 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 <img src="assets/certificado.jpg" alt="Certificado do Curso">
 
 # 🔗Recursos Adicionais
+<!--
 ### 🔧Ferramentas
   - <a href="https://www.jetbrains.com/pt-br/idea/download">IntelliJ</a>
   - <a href="https://www.eclipse.org/downloads/">Eclipse</a>
   - <a href="https://netbeans.apache.org/front/main/download/">NetBeans</a>
   - <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  
+-->
 
 ### 📦Linguagens e Pacotes
   - <a href="https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR">Java</a>
