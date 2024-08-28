@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200px" src="assets/empresas_logo.png" alt="Logo da Ada e do Santander" />
+  <img height="100px" src="assets/empresas_logo.png" alt="Logo da Ada e do Santander" />
   <h3 align="center">Back End Coders - Ada Tech e Santander</h3>
 </div>
 
