@@ -1,10 +1,15 @@
 <div align="center">
-  <img height="100px" src="assets/empresas_logo.png" alt="Logo da Ada e do Santander" />
+  <img height="100px" src="https://iconsverse.vercel.app/icons?i=ada,santander" alt="Logo da Ada e do Santander" />
   <h3 align="center">Back End Coders - Ada Tech e Santander</h3>
 </div>
 
-# 🎯Objetivo
+# 🔍Visão Geral
   Este curso oferece uma introdução abrangente ao desenvolvimento Back-End, abordando desde os fundamentos de programação até conceitos avançados de Programação Orientada a Objetos e Estruturas de Dados. Além de explorar o uso da linguagem Java, o curso foca na aplicação de padrões de design essenciais, como aqueles implementados com o framework SpringBoot, e em componentes cruciais para a criação de soluções Back-End robustas e escaláveis. Meu objetivo é dominar esses tópicos para aprimorar minhas habilidades na construção de aplicações eficientes, bem estruturadas e alinhadas às melhores práticas do desenvolvimento de software.
+
+  <div align="center">
+    <h3> 💻Tecnologias Aprendidas</h3>
+    <img src="https://iconsverse.vercel.app/icons?i=java,spring" alt="Tecnologias Aprendidas">
+  </div>
 
 # 📚Conteúdo Abordado
   * **Fundamentos da Programação:** Exploração dos conceitos básicos, incluindo execução, compilação e depuração de programas. Aborda o uso de variáveis e tipos primitivos, além de operadores aritméticos, relacionais e lógicos. São introduzidas estruturas condicionais e de repetição, manipulação de strings, funções, vetores e tratamento de exceções.
